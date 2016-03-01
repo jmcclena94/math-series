@@ -16,6 +16,8 @@ downloads/
 eggs/
 .eggs/
 lib/
+bin/
+include/
 lib64/
 parts/
 sdist/
@@ -23,6 +25,8 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+pip-selfcheck.json
+.Python
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
